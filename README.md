@@ -1,4 +1,4 @@
-# ⬆️ Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) Practice Tests Exams Questions & Answers
+# ⬆️ Microsoft Azure AZ-900 (Microsoft Azure Fundamentals) Practice Tests Exams Questions
 
 
 
